@@ -1,0 +1,30 @@
+---
+import Avatar from "./Avatar.astro";
+import Title from "./Title.astro";
+import Description from "./Description.astro";
+import Links from "./Links.astro";
+
+import users from "../../data/users.json";
+
+const randomUser = users[Math.floor(Math.random() * users.length)];
+---
+
+<div class="flex flex-col w-full justify-center items-center gap-5">
+  <Avatar url={randomUser.avatar} alt={randomUser.first_name} />
+
+  <Title
+    firstName={randomUser.first_name}
+    lastName={randomUser.last_name}
+    city={randomUser.city}
+    country={randomUser.country}
+  />
+
+  <Description content={randomUser.description} />
+
+  {
+    randomUser.social_links &&
+      Object.keys(randomUser.social_links).map((key) => (
+        <Links key={key} social={key} />
+      ))
+  }
+</div>

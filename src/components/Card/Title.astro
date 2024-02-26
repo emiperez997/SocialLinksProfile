@@ -1,0 +1,11 @@
+---
+const { firstName, lastName, city, country } = Astro.props;
+---
+
+<div class="text-center flex flex-col gap-2">
+  <h1 class="text-3xl text-white font-semibold">
+    {firstName}
+    {lastName}
+  </h1>
+  <h2 class="text-sm font-semibold text-green">{city}, {country}</h2>
+</div>

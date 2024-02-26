@@ -1,0 +1,152 @@
+[
+  {
+    "id": 1,
+    "first_name": "Cornela",
+    "last_name": "Korneev",
+    "city": "San Francisco",
+    "country": "Colombia",
+    "description": "Monitored discrete Graphic Interface",
+    "social_links": {
+      "GitHub": "/cornela",
+      "Linkedin": "/cornela"
+    },
+    "avatar": "https://randomuser.me/api/portraits/women/88.jpg"
+  },
+  {
+    "id": 2,
+    "first_name": "Kippie",
+    "last_name": "Bossons",
+    "city": "Motomiya",
+    "country": "Japan",
+    "description": "Re-contextualized static groupware",
+    "social_links": {
+      "GitHub": "/kippie",
+      "LinkedIn": "/kippie",
+      "Frotnend Mentor": "/kippie",
+      "Twitter": "/kippie"
+    },
+    "avatar": "https://randomuser.me/api/portraits/women/89.jpg"
+  },
+  {
+    "id": 3,
+    "first_name": "Birgit",
+    "last_name": "Howsego",
+    "city": "Heemskerk",
+    "country": "Netherlands",
+    "description": "Function-based 3rd generation instruction set",
+    "social_links": {
+      "GitHub": "/birgit",
+      "LinkedIn": "/birgit",
+      "Frotnend Mentor": "/birgit",
+      "Twitter": "/birgit"
+    },
+    "avatar": "https://randomuser.me/api/portraits/women/10.jpg"
+  },
+  {
+    "id": 4,
+    "first_name": "Olav",
+    "last_name": "Burrow",
+    "city": "Pokrovskoye-Streshnëvo",
+    "country": "Russia",
+    "description": "Multi-tiered global moderator",
+    "social_links": {
+      "GitHub": "/olav",
+      "LinkedIn": "/olav",
+      "Frotnend Mentor": "/olav",
+      "Twitter": "/olav"
+    },
+    "avatar": "https://randomuser.me/api/portraits/men/75.jpg"
+  },
+  {
+    "id": 5,
+    "first_name": "Pepi",
+    "last_name": "Thewys",
+    "city": "Tres Isletas",
+    "country": "Argentina",
+    "description": "Stand-alone dynamic instruction set",
+    "social_links": {
+      "GitHub": "/pepi",
+      "LinkedIn": "/pepi",
+      "Frotnend Mentor": "/pepi",
+      "Twitter": "/pepi"
+    },
+    "avatar": "https://randomuser.me/api/portraits/men/76.jpg"
+  },
+  {
+    "id": 6,
+    "first_name": "Allyn",
+    "last_name": "Ducarne",
+    "city": "Jianshan",
+    "country": "China",
+    "description": "Implemented non-volatile project",
+    "social_links": {
+      "GitHub": "/allyn",
+      "LinkedIn": "/allyn",
+      "Frotnend Mentor": "/allyn"
+    },
+    "avatar": "https://randomuser.me/api/portraits/women/11.jpg"
+  },
+  {
+    "id": 7,
+    "first_name": "Fawn",
+    "last_name": "Sidebotton",
+    "city": "Zhangqiang",
+    "country": "China",
+    "description": "Triple-buffered regional structure",
+    "social_links": {
+      "GitHub": "/fawn",
+      "LinkedIn": "/fawn",
+      "Frotnend Mentor": "/fawn",
+      "Twitter": "/fawn"
+    },
+    "avatar": "https://randomuser.me/api/portraits/men/77.jpg"
+  },
+  {
+    "id": 8,
+    "first_name": "Kimmi",
+    "last_name": "Emson",
+    "city": "San Sebastian",
+    "country": "Philippines",
+    "description": "Total optimizing approach",
+    "social_links": {
+      "GitHub": "/kimmi",
+      "LinkedIn": "/kimmi",
+      "Frotnend Mentor": "/kimmi",
+      "Twitter": "/kimmi",
+      "Instagram": "/kimmi"
+    },
+    "avatar": "https://randomuser.me/api/portraits/women/12.jpg"
+  },
+  {
+    "id": 9,
+    "first_name": "Kurt",
+    "last_name": "Kerslake",
+    "city": "Birni N Konni",
+    "country": "Niger",
+    "description": "Open-architected tangible policy",
+    "social_links": {
+      "GitHub": "/kurt",
+      "LinkedIn": "/kurt",
+      "Frotnend Mentor": "/kurt",
+      "Twitter": "/kurt",
+      "Instagram": "/kurt"
+    },
+    "avatar": "https://randomuser.me/api/portraits/men/78.jpg"
+  },
+  {
+    "id": 10,
+    "first_name": "Donal",
+    "last_name": "Stealey",
+    "city": "Липково",
+    "country": "Macedonia",
+    "description": "Re-engineered background strategy",
+    "social_links": {
+      "GitHub": "/donal",
+      "LinkedIn": "/donal",
+      "Frotnend Mentor": "/donal",
+      "Twitter": "/donal",
+      "Instagram": "/donal"
+    },
+    "avatar": "https://randomuser.me/api/portraits/men/79.jpg"
+  }
+]
