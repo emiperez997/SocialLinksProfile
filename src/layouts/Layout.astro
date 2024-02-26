@@ -17,10 +17,10 @@ const { title } = Astro.props;
     <title>{title}</title>
   </head>
   <body class="h-screen w-screen flex justify-center items-center bg-offBlack">
-    <div
+    <main
       class="w-[330px] sm:w-[380px] max-w-[500px] bg-darkGrey rounded-[15px] py-10"
     >
       <slot />
-    </div>
+    </main>
   </body>
 </html>
